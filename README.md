@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Greatwyrm11
+- 👀 I’m interested in TTRPG and Play-by-Chat RPG, of any genre except horror
+- 🌱 I’m currently learning how to build functional Roll20 APIs
+- 📫 You can reach me at greatwyrm11@gmail.com
